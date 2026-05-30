@@ -1,16 +1,11 @@
-## Hi there 👋
+<p align="center">
+  <img width="500" height="700" align="center" alt="IMG_20260530_165636 jpg" src="https://github.com/user-attachments/assets/ca049e7a-2dc8-4938-81ca-79cdb7c38cbf" />
+</p>
+                                        
+                                         
+                                         𝘐 𝘴𝘵𝘢𝘳𝘵𝘦𝘥 𝘮𝘺 𝘫𝘰𝘶𝘳𝘯𝘦𝘺 𝘸𝘪𝘵𝘩 𝘤𝘰𝘥𝘦. 𝘕𝘦𝘷𝘦𝘳 𝘭𝘰𝘰𝘬𝘦𝘥 𝘣𝘢𝘤𝘬.
+                𝘐𝘵 𝘣𝘦𝘨𝘢𝘯 𝘸𝘪𝘵𝘩 𝘢 𝘴𝘪𝘯𝘨𝘭𝘦 𝘏𝘛𝘔𝘓 𝘧𝘪𝘭𝘦, 𝘵𝘸𝘰 𝘸𝘰𝘳𝘥𝘴, 𝘏𝘦𝘭𝘭𝘰 𝘞𝘰𝘳𝘭𝘥, 𝘯𝘰 𝘧𝘳𝘢𝘮𝘦𝘸𝘰𝘳𝘬𝘴, 𝘯𝘰 𝘵𝘰𝘰𝘭𝘴, 𝘫𝘶𝘴𝘵 𝘤𝘶𝘳𝘪𝘰𝘴𝘪𝘵𝘺 𝘢𝘯𝘥 𝘢 𝘣𝘭𝘢𝘯𝘬 𝘴𝘤𝘳𝘦𝘦𝘯.
+                        𝘕𝘰𝘸 𝘐'𝘮 𝘱𝘶𝘳𝘴𝘶𝘪𝘯𝘨 𝘢 𝘉𝘢𝘤𝘩𝘦𝘭𝘰𝘳'𝘴 𝘪𝘯 𝘊𝘰𝘮𝘱𝘶𝘵𝘦𝘳 𝘚𝘤𝘪𝘦𝘯𝘤𝘦 𝘴𝘱𝘦𝘤𝘪𝘢𝘭𝘪𝘻𝘦𝘥 𝘪𝘯 𝘈𝘐 𝘢𝘯𝘥 𝘔𝘢𝘤𝘩𝘪𝘯𝘦 𝘓𝘦𝘢𝘳𝘯𝘪𝘯𝘨. 
+               𝘐 𝘣𝘶𝘪𝘭𝘥 𝘵𝘩𝘪𝘯𝘨𝘴 𝘵𝘩𝘢𝘵 𝘴𝘰𝘭𝘷𝘦 𝘳𝘦𝘢𝘭 𝘱𝘳𝘰𝘣𝘭𝘦𝘮𝘴. 𝘈𝘯𝘥 𝘐 𝘯𝘦𝘷𝘦𝘳 𝘴𝘵𝘰𝘱 𝘶𝘯𝘵𝘪𝘭 𝘐 𝘶𝘯𝘥𝘦𝘳𝘴𝘵𝘢𝘯𝘥 𝘸𝘩𝘺 𝘦𝘷𝘦𝘳𝘺 𝘱𝘪𝘦𝘤𝘦 𝘰𝘧 𝘪𝘵 𝘸𝘰𝘳𝘬𝘴 𝘵𝘩𝘦 𝘸𝘢𝘺 𝘪𝘵 𝘥𝘰𝘦𝘴.
+__________________________________________________________
 
-<!--
-**as1im/as1im** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
